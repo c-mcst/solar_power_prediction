@@ -17,7 +17,8 @@ Clone the repo and make sure all dependencies are met. Dependencies outside of P
 `tensorflow`
 `matplotlib`
 `seaborn`
-`requests` (if making API calls)
 `jupyter`
+`requests` (if making API calls)
+
 
 Use Jupyter to open the notebook and you should be able to run the models.
