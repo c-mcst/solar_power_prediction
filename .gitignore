@@ -25,6 +25,14 @@ share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+
+
+# jupyter stuff
+.ipynb_checkpoints
+
+# mac stuff
+.DS_Store
+
 MANIFEST
 
 # PyInstaller
