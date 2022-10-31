@@ -1,5 +1,5 @@
 # neural_network_solar
-## A demonstration of using TensorFlow and Keras to predict solar panel power output
+## A demonstration of TensorFlow and Keras for predicting solar panel power output
 
 Welcome. This is a small project I did using TensorFlow to see how well I could predict the power output of the solar panels on my house. I train two models: a linear regression model, and a simple deep neural network. I compare the loss from each model to get an idea of how much I've improved my predictions, and I do some speculation about where this project should go in the future if I really want to know how much power my solar panels will be putting out in a given half hour.
 
